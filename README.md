@@ -1,3 +1,3 @@
 # rock-paper-scissors-python
-THE MOST EPIC GAME YOU EVER PLAYER
-![game screenshot](https://github.com/imnuts000/rock-paper-scissors-python/tree/main/images/screenshot.png)
+<h3>THE MOST EPIC GAME YOU EVER PLAYER</h3>
+<img src="https://github.com/imnuts000/rock-paper-scissors-python/tree/main/images/screenshot.png">
