@@ -1,3 +1,3 @@
 # rock-paper-scissors-python
 <h3>THE MOST EPIC GAME YOU EVER PLAYER</h3>
-![](/image/scrneenshot.png)
+![screenshot](/image/scrneenshot.png)
